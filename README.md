@@ -9,4 +9,4 @@ This project implements a **Collaborative Filtering Recommendation System** usin
 - **User-Based Collaborative Filtering**: Recommends items based on similarity between users.
 - **Cosine Similarity**: Calculates similarity scores between users.
 - **Evaluation Metrics**: Uses Root Mean Squared Error (RMSE) to measure prediction accuracy.
-- **Mo
+- **Modular Design**: Easy to extend and modify with new algorithms and features.
