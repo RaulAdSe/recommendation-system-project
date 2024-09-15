@@ -2,6 +2,8 @@ import unittest
 import pandas as pd
 from src.recommendation import load_data, create_user_item_matrix, compute_user_similarity, predict_ratings
 
+# Contains unit tests to ensure the correctness of the functions in recommendation.py. It checks the data processing, similarity calculation, and prediction functions.
+
 class TestRecommendationSystem(unittest.TestCase):
 
     def setUp(self):
