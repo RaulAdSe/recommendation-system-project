@@ -33,18 +33,4 @@ This project demonstrates a movie recommendation system built using collaborativ
 ### Usage
 
 To explore the full analysis and results, check out the [Demo Notebook](path/to/demo_notebook.ipynb) in this repository.
-
-### How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/recommendation-system.git
-   ```
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
-   ```bash
-   jupyter notebook notebooks/demo_notebook.ipynb
    ``
